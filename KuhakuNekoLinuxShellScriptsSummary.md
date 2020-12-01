@@ -18,6 +18,7 @@ Is a custom shell script made to download youtube videos and/or convert them to 
 Is the ultimate tool to get weather reports and other advanced weather info like (metographs and geo-info) of your own favourite locations in a gify. Its simple 0 commands, instant results from various forecast sources. All at once or one by one.
 
 [![asciicast](https://asciinema.org/a/2LLhbLynRi6GJV2aMkwHjtQ4P.svg)](https://asciinema.org/a/2LLhbLynRi6GJV2aMkwHjtQ4P)
+<script id="asciicast-2LLhbLynRi6GJV2aMkwHjtQ4P" src="https://asciinema.org/a/2LLhbLynRi6GJV2aMkwHjtQ4P.js" async></script>
 
 #### Requirements: wttr.in, inxi, finger
 
