@@ -1,6 +1,6 @@
 #! /bin/sh
 #KillFasterTMUX by KuhakuNeko
-#This is guaranteed to KILL tmux 100% even when it bugs, and it used to listthe killed sessions too...
+#This is guaranteed to KILL tmux 100% even when it bugs or freezes, and its also used to list the killed sessions too...
 echo "The Following sessions will be killed in the next seconds, and theres NOTHING you can do about it."
 echo""
 ps aux | grep tmux
