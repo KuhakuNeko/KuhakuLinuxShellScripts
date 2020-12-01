@@ -50,7 +50,7 @@ do
 		fi
 
 	echo "----DOWNLAOD DIRECTORY VIDEOS/MUSIC----"
-	ls | sort
+	ls *.{mp3,flac,wav,mp4,mkv,flv,avi} | sort
 	echo""
 
 	PlayLoop=0
