@@ -57,7 +57,7 @@ do
 	while [ $PlayLoop != 1 ]
 	do
 		echo "Would you like to play all the contents in the file or the song you downloaded? all/this/none"
-		echo "Now you can also play songs and manage your playlist with VLC by typing "vlc".  //BETA VERSION WARNING"
+		echo "Now you can also play songs and manage your playlist with VLC by typing "vlc"."
 		read PLAnsaa
 		
 			if [ $PLAnsaa = "all" ]
