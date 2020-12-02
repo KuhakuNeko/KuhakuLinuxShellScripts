@@ -10,7 +10,7 @@ In this repository i keep all the shell scripts made by me for the Linux operati
 ## YoutubeDLSS
 Is a custom shell script made to download youtube videos and/or convert them to mp3, and even allows you to play them back with the use of various programs. YoutubeDLSS makes the download of a video simple and easy without the use of legthy commands. A command line first timer could download a video easily and browse through youtube. <br /> This and more, a script away. Just try it yourself.
 
-#### Shell Script Demo: [Demo for YoutubeDLSS.sh by KuhakuNeko](https://asciinema.org/a/V1HWAdIsL2cVXGkad57sI5mKl)
+#### Shell Script Demo: [Demo for YoutubeDLSS.sh by KuhakuNeko](https://asciinema.org/a/VlPMJ7XiUjUfVelGFS0s9JN3J)
 
 #### Requirements: youtube-dl, vlc, sox, mpv
 
