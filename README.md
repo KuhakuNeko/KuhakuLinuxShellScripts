@@ -35,4 +35,9 @@ Is a tmux session killer. After all the frequent freezes and exahaustion of typi
 
 #### Requirements: tmux
 
+## My Tmux Config Files
+I decided to upload my tmux configuration files as well in case someone is interested to use them. They allow you to change windows using the mouse and resize them as well and they also have custom shortcuts (mainly uses ctrl+a). They have a custom color theme and i even uploaded a different config that makes tmux look like a windows 95 bios interface.
+
+#### Tmux Config Files Demo: [Demo for my Tmux config files by KuhakuNeko](https://asciinema.org/a/ial2U20oFMhc2i3IFFupJ2Ipn)
+
 ## More shell scripts on their way so keep watching out, your life will be much more comfy.
