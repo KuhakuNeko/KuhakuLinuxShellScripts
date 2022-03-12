@@ -40,4 +40,20 @@ I decided to upload my tmux configuration files as well in case someone is inter
 
 #### Tmux Config Files Demo: [Demo for My Tmux config files by KuhakuNeko](https://asciinema.org/a/ial2U20oFMhc2i3IFFupJ2Ipn)
 
+## HyperHakuBench
+Is a custom script that helps you compare the performance of 2 different python scripts or linux commands in a much easier way while saving you a lot of time and offering you additional features like:
+- Benchmark standards and modes
+- Individual & concatenated benchmark reports
+- Hyperfine version identification
+- Automatic cache clearance
+- Automatic warmup
+- Automatic removal of the useless reports and benchmark leftovers
+- Customization
+Don't stay behind and start using it! Will make you more productive.
+
+
+#### Shell Script Demo: [Demo for HyperHakuBench.sh by KuhakuNeko](https://asciinema.org/a/t4w9uDFtuE8GYKeyFbzadEJ6r)
+
+#### Requirements: hyperfine
+
 ## More shell scripts on their way so keep watching out, your life will be much more comfy.
