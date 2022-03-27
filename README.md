@@ -57,4 +57,11 @@ Don't stay behind and start using it! Will make you more productive.
 
 #### Requirements: hyperfine
 
+## HakUpdateSubmodules
+Is a shell script that allows you to get rid of all the headaches you can get when updating submodules. You enter only 4 names, your github token and you're done. No waste of time, no health damage, the easy way, safe and fast way to update/add submodules brought to you by KuhakuNeko.
+
+#### Shell Script Demo: [Demo for HakUpdateSubmodules.sh by KuhakuNeko](https://asciinema.org/a/RTtCf7KaDVtCMtWL4G6wH7dsO)
+
+#### Requirements: git
+
 ## More shell scripts on their way so keep watching out, your life will be much more comfy.
