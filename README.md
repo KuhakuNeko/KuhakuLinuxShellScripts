@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Shell Type-Bash-success">
 <img src="https://img.shields.io/badge/OS-Linux-orange">
 <img src="https://img.shields.io/badge/Builds-BETA-blue">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKuhakuNeko%2FKuhakuNekoLinuxShellScripts&count_bg=%23FF5089&title_bg=%23555555&icon=&icon_color=%232DD8E3&title=Hits&edge_flat=false"/></a>
 </p>
 In this repository i keep all the shell scripts made by me for the Linux operating system.
 
